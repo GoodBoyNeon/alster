@@ -1,0 +1,17 @@
+{
+  "name": "alster",
+  "version": "0.1.0",
+  "description": "A minimal library that helps you connect to the Discord API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alster",
+    "alsterjs",
+    "discord",
+    "discordapi"
+  ],
+  "author": "",
+  "license": "ISC"
+}
