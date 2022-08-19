@@ -1,2 +1,2 @@
 # Alster
-https://img.shields.io/npm/dm/alster
+![npm](https://img.shields.io/npm/dm/alster)
